@@ -1,5 +1,5 @@
 # Technology-Trends-Analysis
-End-to-End Data Analytics Project | IBM Data Analyst Professional Certificate
+Technology Trends Analysis using Python, SQL and IBM Cognos Analytics
 ## Overview
 Analyzing current and future technology trends using developer survey data.
 
